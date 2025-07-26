@@ -1,0 +1,11 @@
+Node_ID,Node_Type,Max_Storage_kWh
+N1,Residential,173.0
+N2,Commercial,473.8
+N3,Commercial,538.66
+N4,Residential,166.33
+N5,Residential,148.21
+N6,Commercial,695.43
+N7,Commercial,784.48
+N8,Commercial,446.62
+N9,Commercial,683.83
+N10,Commercial,492.14
